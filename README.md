@@ -4,5 +4,3 @@
 
 # clone-spotify 
 Clone responsivo da página inicial do spotify(2016) utilizando HTML, Bootstrap e CSS
-
-link para o site: https://clone-spotify-iota-green.vercel.app/
